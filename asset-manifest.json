@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dongkang/static/css/main.59faa993.css",
+    "main.js": "/dongkang/static/js/main.a9e05fd6.js",
+    "index.html": "/dongkang/index.html",
+    "main.59faa993.css.map": "/dongkang/static/css/main.59faa993.css.map",
+    "main.a9e05fd6.js.map": "/dongkang/static/js/main.a9e05fd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59faa993.css",
+    "static/js/main.a9e05fd6.js"
+  ]
+}
